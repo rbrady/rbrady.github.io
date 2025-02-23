@@ -1,6 +1,6 @@
 baseURL = 'https://rbrady.github.io/'
 languageCode = 'en-us'
-title = 'Code Chaos'
+title = 'Ryan Brady - Signals | Systems''
 theme = 'pehtheme-hugo'
 relativeURLs = true
 canonifyURLs = true
