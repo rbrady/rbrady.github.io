@@ -2,3 +2,6 @@ baseURL = 'https://rbrady.github.io'
 languageCode = 'en-us'
 title = 'Code Chaos'
 theme = 'pehtheme-hugo'
+relativeURLs = true
+canonifyURLs = true
+
