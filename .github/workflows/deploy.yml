@@ -19,7 +19,7 @@ jobs:
         hugo-version: 'latest'
 
     - name: Build Site
-      run: hugo --minify
+      run: hugo --minify --baseURL "https://rbrady.github.io/"
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
