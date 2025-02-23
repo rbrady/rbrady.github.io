@@ -35,6 +35,7 @@ Through a diverse range of articles, videos, images, and interactive tools, we s
 
 We are a dedicated team of space enthusiasts, writers, astronomers, and scientists who are passionate about sharing the wonders of the universe. Our combined expertise in space science, astrophotography, and science communication allows us to bring you the best of the cosmos.
 
+
 ## Join Our Cosmic Community
 
 We invite you to join us on this cosmic journey. Explore the depths of space with us, ask questions, share your own astronomical experiences, and become part of a community that looks to the stars with wonder and curiosity.
